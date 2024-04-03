@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Laravel Project**
 
-- 🌱 I’m currently learning **Laravel and express**
+- 🌱 I’m currently learning **Laravel and Tailwind**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MalfinK?tab=repositories](https://github.com/MalfinK?tab=repositories)
 
